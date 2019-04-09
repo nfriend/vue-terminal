@@ -4,7 +4,7 @@ Vue-terminal is a dependency-free, lightweight terminal emulator in Vue.js. Vue-
 
 ### How to use?
 ```bash
-npm install vue-terminal
+npm install @nathanfriend/vue-terminal
 ```
 ### Example
 

@@ -1,5 +1,5 @@
 {
-  "name": "vue-terminal",
+  "name": "@nathanfriend/vue-terminal",
   "version": "1.0.1-beta",
   "description": "A terminal emulator in Vue",
   "author": "xuxiaofei <xuxiaofei9150@gmail.com>",
@@ -11,7 +11,7 @@
   "homepage": "https://xiaofeixu.cn/vue-terminal/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dongsuo/vue-terminal.git"
+    "url": "git+https://github.com/nfriend/vue-terminal.git"
   },
   "keywords": [
     "vue",
