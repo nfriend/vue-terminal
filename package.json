@@ -1,6 +1,6 @@
 {
   "name": "@nathanfriend/vue-terminal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A terminal emulator in Vue",
   "author": "xuxiaofei <xuxiaofei9150@gmail.com>",
   "main": "dist/vue-terminal.min.js",
